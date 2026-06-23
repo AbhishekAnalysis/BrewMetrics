@@ -1,0 +1,44 @@
+product_id,product_name,category,size,price
+P01,Caffe Latte,Hot Coffee,Tall,235
+P02,Caffe Latte,Hot Coffee,Grande,255
+P03,Caffe Latte,Hot Coffee,Venti,275
+P04,Cappuccino,Hot Coffee,Tall,260
+P05,Cappuccino,Hot Coffee,Grande,280
+P06,Cappuccino,Hot Coffee,Venti,300
+P07,Caramel Macchiato,Hot Coffee,Tall,295
+P08,Caramel Macchiato,Hot Coffee,Grande,315
+P09,Caramel Macchiato,Hot Coffee,Venti,335
+P10,Americano,Hot Coffee,Tall,215
+P11,Americano,Hot Coffee,Grande,235
+P12,Americano,Hot Coffee,Venti,255
+P13,Vanilla Latte,Hot Coffee,Tall,280
+P14,Vanilla Latte,Hot Coffee,Grande,300
+P15,Vanilla Latte,Hot Coffee,Venti,320
+P16,White Chocolate Mocha,Hot Coffee,Tall,305
+P17,White Chocolate Mocha,Hot Coffee,Grande,325
+P18,White Chocolate Mocha,Hot Coffee,Venti,345
+P19,Hazelnut Latte,Hot Coffee,Tall,295
+P20,Hazelnut Latte,Hot Coffee,Grande,315
+P21,Hazelnut Latte,Hot Coffee,Venti,335
+P22,Java Chip Frappuccino,Cold Coffee,Tall,340
+P23,Java Chip Frappuccino,Cold Coffee,Grande,360
+P24,Java Chip Frappuccino,Cold Coffee,Venti,380
+P25,Mocha Frappuccino,Cold Coffee,Tall,315
+P26,Mocha Frappuccino,Cold Coffee,Grande,335
+P27,Mocha Frappuccino,Cold Coffee,Venti,355
+P28,Caramel Frappuccino,Cold Coffee,Tall,299
+P29,Caramel Frappuccino,Cold Coffee,Grande,319
+P30,Caramel Frappuccino,Cold Coffee,Venti,339
+P31,Double Chocolate Chip Frappuccino,Cold Coffee,Tall,330
+P32,Double Chocolate Chip Frappuccino,Cold Coffee,Grande,350
+P33,Double Chocolate Chip Frappuccino,Cold Coffee,Venti,370
+P34,Iced Americano,Iced Coffee,Tall,240
+P35,Iced Americano,Iced Coffee,Grande,260
+P36,Iced Americano,Iced Coffee,Venti,280
+P37,Iced Latte,Iced Coffee,Tall,260
+P38,Iced Latte,Iced Coffee,Grande,280
+P39,Iced Latte,Iced Coffee,Venti,300
+P40,Chocolate Croissant,Food,Regular,210
+P41,Blueberry Muffin,Food,Regular,220
+P42,Chicken Sandwich,Food,Regular,280
+P43,Veg Cheese Sandwich,Food,Regular,250
