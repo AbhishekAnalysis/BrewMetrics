@@ -43,12 +43,6 @@ The dashboard provides insights into:
 
 ---
 
-## 📊 Dashboard Preview
-
-*(Add screenshots here)*
-
----
-
 ## 🚀 Summary
 
 This dashboard provides a comprehensive view of sales, customer behavior, and product performance, enabling data-driven decision-making and helping identify opportunities for growth and customer retention.
